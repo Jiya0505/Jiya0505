@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a project: Window media player using image detection(in python).
--🔭 previously worked on a project: Heart disease prediction using machiene learning algorithms.
+-🔭 previously worked on a project: Heart disease prediction using machine learning algorithms.
 - 🌱 I’m currently learning Python and Java.
-- 🤔 I’m looking for help with Web development (front end as well as backend).
+- 🤔 I’m looking for help with Web development (front end as well as backend) and Machine Learning.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm an enthusiast always looking forward to learn new things.
 -->
