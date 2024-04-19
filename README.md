@@ -5,5 +5,5 @@ Welcome to my GitHub profile! I'm Jiya Yadav, a third college student passionate
 - 🌱 I’m currently learning Python and Java.
 - 🤔 I’m looking for help with Web development (front end as well as backend) and Machine Learning.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm an enthusiast always looking forward to learn new things. Always open to new adventures and opportunities.
+- ⚡ Fun fact: I'm an enthusiast always looking forward to learn new things. Ever ready for new adventures and opportunities.
   
