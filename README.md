@@ -1,14 +1,9 @@
 ### Hi there 👋
-
-<!--
-**Jiya0505/Jiya0505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a project: Window media player using image detection(in python).
+Welcome to my GitHub profile! I'm Jiya Yadav, a third college student passionate about machine learning and full-stack development. Here, you'll find a collection of projects, experiments, and learning resources reflecting my journey in the world of technology.
+- 🔭 I’m currently working on a project: Department Prediction and Healthcare Decision Support System
 -🔭 previously worked on a project: Heart disease prediction using machine learning algorithms.
 - 🌱 I’m currently learning Python and Java.
 - 🤔 I’m looking for help with Web development (front end as well as backend) and Machine Learning.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm an enthusiast always looking forward to learn new things.
--->
+- ⚡ Fun fact: I'm an enthusiast always looking forward to learn new things. Always open to new adventures and opportunities.
+  
